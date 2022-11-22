@@ -19,5 +19,7 @@ sudo dnf install brave-browser -y
 sudo dnf group install Virtualization -y
 sudo dnf group install "C Development Tools and Libraries" "Development Tools" -y
 sudo dnf install cmake -y
+sudo dnf install drawing -y
+
 
 curl -L https://nixos.org/nix/install | sh
