@@ -30,3 +30,4 @@ sudo usermod -a -G kvm crisb
 sudo usermod -a -G libvirt crisb
 
 curl -L https://nixos.org/nix/install | sh
+echo "END"
