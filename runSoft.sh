@@ -20,6 +20,7 @@ sudo dnf group install Virtualization -y
 sudo dnf group install "C Development Tools and Libraries" "Development Tools" -y
 sudo dnf install cmake -y
 sudo dnf install drawing -y
+sudo dnf install gh -y 
 
 sudo su
 echo '3.134.185.143 openvpnserver' >> /etc/hosts
